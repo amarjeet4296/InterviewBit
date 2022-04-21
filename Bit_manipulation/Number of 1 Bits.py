@@ -1,5 +1,6 @@
-// https://www.interviewbit.com/problems/number-of-1-bits/
-// Write a function that takes an integer and returns the number of 1 bits it has.
+## https://www.interviewbit.com/problems/number-of-1-bits/
+## Write a function that takes an integer and returns the number of 1 bits it has.
+## Brian Kernighan 
 
 class Solution:
     # @param A : integer
